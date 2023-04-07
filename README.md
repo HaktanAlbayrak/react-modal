@@ -1,3 +1,6 @@
+# Deploy Status
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8800b91b-5276-4776-9c9d-3b50584e0508/deploy-status)](https://app.netlify.com/sites/extraordinary-marshmallow-a3c7a2/deploys)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
